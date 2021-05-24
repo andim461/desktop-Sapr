@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding-right: 16px;
+}
+
+.charts {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 16px;
+}
+
+.chartsCard {
+  width: 100%;
+}
+
+.points {
+  width: 50%;
+}
+
+.chartsTab {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tabs {
+  min-width: 1300px;
+}
